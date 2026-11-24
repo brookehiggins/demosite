@@ -2,7 +2,6 @@
 ---
 title: "Brooke Higgins"
 image: IMG_6328.jpeg
-resources: resume.pdf
 about:
   template: trestles
   image-shape: round
