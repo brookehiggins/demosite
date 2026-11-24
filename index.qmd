@@ -1,0 +1,41 @@
+
+---
+title: "Brooke Higgins"
+image: IMG_6328.jpeg
+resources: resume.pdf
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:brookehiggins.co@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/brookehiggins
+  id: ppc
+---
+
+:::{#ppc}
+
+## Hello!
+
+My name is Brooke Higgins. I am currently studying Applied Mathematics at the University of Colorado Denver. 
+
+## Skills
+
+- R, HTML, CSS, and Quarto
+- Sketch/Figma
+- Mathematical modeling
+
+## Education
+
+- University of Colorado Denver
+- Red Rocks Community College
+    - Associate of Arts in Economics
+    - Extensive engineering-focused coursework in mathematics, physics, and chemistry
+    - 92% completion toward Associate of Engineering Science degree
+- General Assembly- UX Design Bootcamp
+
+:::
